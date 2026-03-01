@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 40: expected ':' not found.
+    "Go to Mary's bakery"：
+                         ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Sun Mar  1 13:05:31 2026
